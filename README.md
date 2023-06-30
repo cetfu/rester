@@ -27,7 +27,7 @@ yarn android
 
 ---
 # Images
-
+<img src="https://github.com/honeybadger4768/rester/blob/master/.github/images/DarkModeHello.png?raw=true" width="50%" alt="Dark Mode Hello">
 ![DarkModeHello](https://github.com/honeybadger4768/rester/blob/master/.github/images/DarkModeHello.png?raw=true)
 ![DarkModeExample1](https://github.com/honeybadger4768/rester/blob/master/.github/images/DarkModeExample1.png?raw=true)
 ![DarkModeExample2](https://github.com/honeybadger4768/rester/blob/master/.github/images/DarkModeExample2.png?raw=true)
