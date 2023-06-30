@@ -27,10 +27,9 @@ jobs:
         with:
           node-version: '16'
 
-      - name: Run Yarn Install
+      - name: Run npm Install
         run: |
-          npm i -g corepack
-          yarn install
+          npm install
       - name: Build application
         run: |
           cd android
